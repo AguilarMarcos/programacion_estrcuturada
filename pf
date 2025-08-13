@@ -1,4 +1,0 @@
-git add nuevo_archivo
-git mv nuevo_archivo PF/nuevo_archivo
-git commit -m "Agregar nuevo archivo a PF"
-git push origin main
